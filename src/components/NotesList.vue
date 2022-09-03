@@ -19,7 +19,6 @@ export default {
 <style lang="scss">
 .notes {
   display: flex;
-  justify-content: space-between;
   flex-wrap: wrap;
 }
 </style>

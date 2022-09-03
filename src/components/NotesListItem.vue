@@ -57,6 +57,7 @@ export default {
 <style lang="scss">
 .note {
   margin-top: 20px;
+  margin-left: 20px;
   padding: 20px;
   max-width: 350px;
   min-width: 350px;
